@@ -13,7 +13,6 @@
 #### this audio was created using [IPA Reader](http://ipa-reader.xyz/) its really cool check it out!
 ### weighted text output generated 
 
-![test](./assets/test.mp3)
 [Play here](./assets/english_ipa_gen_weighted_short_v1.mp3)
 ##### Generate random words based off of freqeceny distrobution found in perviose steps
 ##### example:
