@@ -7,6 +7,16 @@
 
 <h4 align="center">Currently only supports english</h4>
 
+![](assets/2021-02-18-19-32-33.png)
+![](assets/2021-02-18-19-34-29.png)
+## Demo output
+#### this audio was created using [IPA Reader](http://ipa-reader.xyz/) its really cool check it out!
+### weighted text output generated 
+[Play here](./assets/english_ipa_gen_weighted_short_v1.mp3)
+### random non weighted text output generated using my dataset
+[Play here](./assets/english_ipa_gen_random_my_letters_short_v1.mp3)
+### strate up random ipa text generation
+[Play here](./assets/english_ipa_gen_true_random_v1.mp3)
 
 # Quick start
 ### __________________
@@ -15,6 +25,7 @@
 ```bash
 ``` 
 -->
+
 
 # Summary
 <!-- ### -  *[Quick start](#Quick-start)*
@@ -27,8 +38,15 @@
 
 
 # Installation
+### install pip req's
 ```bash
+cd ~
+git clone https://github.com/wisehackermonkey/multilingual-gibberish-gen.git
+cd multilingual-gibberish-gen
+pip install -r requirements.txt
 ```
+### run jupyter notebook called text_processing.ipybn
+
 
 <!-- ----------------- -->
 <!-- # Screenshots -->
@@ -44,6 +62,8 @@
 ```bash
 ```
 
+# Data used for project
+### [open-dict-data/ipa-dict: Monolingual wordlists with pronunciation information in IPA](https://github.com/open-dict-data/ipa-dict)
 -----------------
 # Contributors
 
