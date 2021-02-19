@@ -12,11 +12,25 @@
 ## Demo output
 #### this audio was created using [IPA Reader](http://ipa-reader.xyz/) its really cool check it out!
 ### weighted text output generated 
+
 [Play here](./assets/english_ipa_gen_weighted_short_v1.mp3)
+##### Generate random words based off of freqeceny distrobution found in perviose steps
+##### example:
+```text
+ɫɡbkʃ itɫf ots kɝiɫm ɑɫ ʊɹd bə ɪbmkn aptv ɪt uʊɡ miɪɪɫ sdə əɪ tksʊ htvæ ɫzɡtæ vnɛ tm ɑɹto
+```
 ### random non weighted text output generated using my dataset
+##### example
+```text
+əθuks pɑŋed ɫŋusɛ ɝɹttw eksau ɡɝuoh mspnw suɝvŋ ʃɑsʃɫ ŋʃnit ʒjomt ohʊæʃ ɪmŋɝu iɑfəɔ fʊhəɛ ɫzjkŋ kɛnɡə əʃpsv azjət aɪænv
+```
 [Play here](./assets/english_ipa_gen_random_my_letters_short_v1.mp3)
 ### strate up random ipa text generation
-[Play here](./assets/english_ipa_gen_true_random_v1.mp3)
+##### example
+```text
+ʒʃʒθdʒ dʒŋln ŋdɡfb ʃvfθɡ ɡslbŋ θðkʃθ lrlŋh hʍrwʃ lðwll dʒðʒtʃf bŋkzm kʍmdɡ psjwz zzθnʒ wθktʃ ʃkdpw θðfθd sptbp dʒsnjp tʃpwrj
+```
+[Play here](./assets/english_ipa_gen_true_random_short_v1.mp3)
 
 # Quick start
 ### __________________
